@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/project.gif" alt="Preview">
+  <img src="./.github/project.png" alt="Preview">
 </p>
 
 <h1 align="center">
