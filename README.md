@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./.github/project.gif" alt="Preview do projeto">
+  <img src="./.github/project.gif" alt="Preview">
 </p>
 
 <h1 align="center">
@@ -10,7 +10,7 @@
 Desafio 03 - Criando um hook de carrinho de compras
 </p>
 
-## 🧠 Desafio proposto
+## Desafio proposto
 
 > O seu principal objetivo é criar um hook de carrinho de compras. Você terá acesso a duas páginas, um componente e um hook para implementar as funcionalidades pedidas nesse desafio
 
